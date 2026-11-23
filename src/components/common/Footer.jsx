@@ -146,8 +146,9 @@ export const Footer = () => {
         {/* Bottom Bar */}
         <div className="pt-8 mt-8 border-t border-slate-800 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-400 gap-4">
           <p>© {new Date().getFullYear()} SwiftShop E-Commerce. All rights reserved.</p>
-          <p className="flex items-center gap-1">
-            Developed with <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500 inline" /> for React & Redux Toolkit Assignment.
+          <p className="flex items-center gap-1.5 text-xs text-slate-400">
+            <span>Developed by</span>
+            <span className="text-white font-semibold hover:text-indigo-400 transition">Mehedi Hossen Fahim</span>
           </p>
         </div>
       </div>

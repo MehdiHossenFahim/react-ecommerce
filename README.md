@@ -215,6 +215,6 @@ npm run preview
 ---
 
 ## 11. Author & Submission Notes
-- **Author:** Student Submission
+- **Author:** Mehedi Hossen Fahim
 - **Assignment:** E-Commerce Shopping Application (React.js & Redux Toolkit)
 - **License:** MIT
