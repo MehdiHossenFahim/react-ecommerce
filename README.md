@@ -14,9 +14,6 @@ A responsive e-commerce web application built using **React**, **Redux Toolkit**
 
 This project was built for an e-commerce shopping assignment to demonstrate core React concepts, component architecture, client-side routing with React Router, and state management using Redux Toolkit.
 
-### Live Demo
-- **Vercel Deployment:** [https://react-ecommerce-ten-vert.vercel.app/](https://react-ecommerce-ten-vert.vercel.app/)
-
 ---
 
 ## Technologies Used
